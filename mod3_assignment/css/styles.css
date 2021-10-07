@@ -1,0 +1,66 @@
+.container-fluid{
+	margin: 0;
+	padding: 0;
+}
+.icon-bar{
+	background-color: black;
+}
+.navbar-toggle{
+	border:1px solid black;
+}
+.navbar-toggle:hover{
+	background-color: white;
+}
+#nav-class{
+	background-color: grey;
+	border: 2px solid black;
+	border-radius: 0px;
+	padding: 10px;
+}
+li{
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.menu-item{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: white;
+	border-bottom: 1px solid black;
+	color: black;
+	display: block;
+	font-family: "Comic Sans MS", sans-serif;
+	text-align: center;
+}
+
+
+#brand{
+	font-family: "Comic Sans MS", sans-serif;
+	font-weight: bold;
+	color: black;
+}
+.menu-content{
+	background-color: grey;
+}
+
+#title{
+	text-align: center;
+	font-family: "Comic Sans MS", sans-serif;
+	font-weight: bold;
+	color: black;
+}
+
+#item-name{
+	text-align: center;
+	font-family: "Comic Sans MS", sans-serif;
+	font-weight: bold;
+	color: black;
+	padding-top:10px;
+}
+
+#item-description{
+	font-family: "Comic Sans MS", sans-serif;
+	color: black;
+	padding: 10px;
+}
